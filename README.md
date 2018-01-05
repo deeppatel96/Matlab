@@ -1,5 +1,5 @@
 # Matlab
-All code written in Matlab pertaining to projects, lab calculations, and homework problems
+Matlab code pertaining to projects, lab calculations, and homework problems
 
 Senior Labs Fall
 - consists of Mechanical Engineering Lab data, calculations, and plots done in Matlab
@@ -21,7 +21,3 @@ Baseball Project
 
 Measurements Homework
 - consists of code used for homework from Theory and Design of Mechanical Measurements textbook by Richard S. Figliola and Donald E. Beasley
-
-
-
-
